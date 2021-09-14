@@ -2,5 +2,11 @@
 /* contact jhiggin8@gmu.edu with questions! */
 
 body {
-  background-color: #cc0000;
+  background-color: #ecebf3;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+  color: blue;
 }
