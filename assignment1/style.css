@@ -1,0 +1,30 @@
+/* style sheet for Roseate Spoonbill demo */
+
+/* font-family: 'Lobster', cursive;
+font-family: 'Roboto', sans-serif; */
+
+body {
+  background: #094100;
+  font-family: Roboto, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFE2EB;
+}
+
+h1, h2 {
+  font-family: 'Lobster', cursive;
+  color: #FF7AA0;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 36px;
+}
